@@ -11,6 +11,11 @@ import UIKit
 
 public class General
 {
+    public init()
+    {
+        // The Main Stuff
+    }
+    
     public func randomNumber() -> Int
     {
         let number = arc4random_uniform(100)
