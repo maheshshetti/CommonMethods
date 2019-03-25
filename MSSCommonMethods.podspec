@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name            = 'MSSCommonMethods'
-  s.version         = '1.3'
+  s.version         = '1.4'
   s.summary      = 'MSS Common Methods'
  
   s.description   = <<-DESC
